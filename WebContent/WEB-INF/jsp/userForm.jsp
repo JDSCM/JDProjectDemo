@@ -37,7 +37,7 @@
 				<form:option value="7" label="Switzerland" />
 				<form:option value="8" label="UAE" />
 				<form:option value="9" label="Singapore" />
-				<form:option value="10" label="MalaysiA" />
+				<form:option value="10" label="Malaysia" />
 				
 			</form:select></td>
 		</tr>
